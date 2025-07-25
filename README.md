@@ -21,5 +21,5 @@ This project was developed during the **Agentic AI Bootcamp** and demonstrates t
 MIT License
 
 For questions or collaboration, contact: 
-poorna7708@gmail.com ||
-https://www.linkedin.com/in/poorna-devi-m-snsinstitutions/
+- poorna7708@gmail.com
+- https://www.linkedin.com/in/poorna-devi-m-snsinstitutions/
