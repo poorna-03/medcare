@@ -2,7 +2,7 @@
 
 **MedCare** is an automated, no-code AI system built with **n8n** to assist in diagnosing and recommending treatment plans for chronic diseases, tailored to the Indian healthcare context.
 
-The system collects patient data via a form and uses LangChain AI agents to interpret symptoms. It then calls a sub-workflow (`medcaresub`) that fetches verified treatment details from a Google Sheet. A diagnosis summary is generated using Gemini AI and sent to the patient’s email.
+> The system collects patient data via a form and uses LangChain AI agents to interpret symptoms. It then calls a sub-workflow (`medcaresub`) that fetches verified treatment details from a Google Sheet. A diagnosis summary is generated using Gemini AI and sent to the patient’s email.
 
 ### Core Components:
 - n8n form trigger for patient data intake
